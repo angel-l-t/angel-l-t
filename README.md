@@ -26,11 +26,11 @@ I'm Angel, a student at Brigham Young University-Idaho interested in front-end a
 
 
 - Skills:
-•	Dynamic problem-solving
-•	Time management and scheduling
-•	Foster healthy teamwork
-•	Effective written and oral communication
-•	Fast learning of new technologies
+* Dynamic problem-solving
+* Time management and scheduling
+* Foster healthy teamwork
+* Effective written and oral communication
+* Fast learning of new technologies
 
 
 ## Let's Connect!
